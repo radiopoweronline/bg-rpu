@@ -70,7 +70,7 @@ h1:before {
 	position: absolute;
 	height: 100%;
 	width: 10px;
-	background: #10aaaf;
+	background: #00aff6;
 	text-transform: uppercase;
 }
 .responsive-vimeo {
@@ -525,7 +525,7 @@ header .container {
 .jp-playlist li a {
 	font-family: 'Oswald', sans-serif;
 	color: #464646;
-	font-size: 13px;
+	font-size: 15px;
 	line-height: 25px;
 	display: block;
 	text-decoration: none;
@@ -559,7 +559,7 @@ header .container {
 }
 .audio-title, .audio-timer {
 	display: block;
-	font-size: 14px;
+	font-size: 18px;
 	font-family: 'Oswald', sans-serif;
 }
 .audio-title {
@@ -759,7 +759,7 @@ header .container {
 	display: block;
 	height: 29px;
 	width: 29px;
-	background: #00fd19;
+	background: #00aff6;
 	color: #020202;
 	text-align: center;
 	line-height: 29px;
