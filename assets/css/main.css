@@ -70,7 +70,7 @@ h1:before {
 	position: absolute;
 	height: 100%;
 	width: 10px;
-	background: #00aff6;
+	background: #f600b1;
 	text-transform: uppercase;
 }
 .responsive-vimeo {
@@ -495,7 +495,7 @@ header .container {
 	height: 63px;
 	width: 63px;
 	border-radius: 50%;
-	background: url(../jPlayer/controls/list.png) center center #10aaaf no-repeat;
+	background: url(../jPlayer/controls/list.png) center center #f600b1 no-repeat;
 }
 .jp-playlist {
 	padding-left: 80px;
@@ -759,7 +759,7 @@ header .container {
 	display: block;
 	height: 29px;
 	width: 29px;
-	background: #00aff6;
+	background: #f600b1;
 	color: #020202;
 	text-align: center;
 	line-height: 29px;
@@ -803,7 +803,7 @@ a.next-album {
 .album-purchase a {
 	display: block;
 	background: #1a1a1a;
-	color: #10aaaf;
+	color: #f600b1;
 	font-size: 15px;
 	font-family: oswald;
 	font-family: 300;
@@ -829,7 +829,7 @@ a.next-album {
 	text-transform: uppercase;
 	font-size: 38px;
 	line-height: 20px;
-	color: #10aaaf;
+	color: #f600b1;
 	margin-bottom: 22px;
 }
 .album-detail-content li {
@@ -873,7 +873,7 @@ a.next-album {
 	margin-top: 24px;
 }
 .related-album h4 {
-	color: #10aaaf;
+	color: #f600b1;
 	font-size: 12px;
 	line-height: 20px;
 	text-transform: uppercase;
@@ -897,7 +897,7 @@ a.next-album {
 .breadcrumb h5 {
 	font-size: 16px;
 	font-family: oswald;
-	color: #10aaaf;
+	color: #f600b1;
 	text-transform: uppercase;
 	padding-bottom: 15px;
 }
@@ -953,7 +953,7 @@ a.next-album {
 	max-width: 435px;
 	bottom: 52px;
 	left: 115px;
-	border-right: 6px solid #10aaaf;
+	border-right: 6px solid #f600b1;
 }
 .flex-caption h2 {
 	margin: 0;
@@ -1024,21 +1024,21 @@ a.next-album {
 	text-transform: uppercase;
 	font-size: 14px;
 	font-weight: 600;
-	color: #10aaaf;
+	color: #f600b1;
 	max-width: 420px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
 }
 .events_showcase h5 {
-	color: #10aaaf;
+	color: #f600b1;
 }
 .events_showcase .dropdown-menu li a:hover {
 	background: #282828;
 	color: #fff;
 }
 .events_showcase .event-feed a.btn {
-	background: #10aaaf;
+	background: #f600b1;
 }
 .events_showcase .event-feed {
 	border-bottom: 1px solid #2c2c2c;
@@ -1068,7 +1068,7 @@ a.next-album {
 	color: #484848;
 }
 .events_showcase h6 span {
-	color: #10aaaf;
+	color: #f600b1;
 }
 .events_showcase h3 {
 	color: #fff;
@@ -1078,7 +1078,7 @@ a.next-album {
 	padding-bottom: 10px;
 }
 .events_showcase h3 span {
-	color: #10aaaf;
+	color: #f600b1;
 }
 .event_calender th {
 	background: none;
@@ -1097,7 +1097,7 @@ a.next-album {
 	background: #282828;
 	border-right: 3px solid #1f1f1f;
 	font-size: 24px;
-	color: #10aaaf;
+	color: #f600b1;
 }
 .event_calender .other-month {
 	color: #616161;
@@ -1172,7 +1172,7 @@ a.next-album {
 	padding-left: 50px;
 }
 .event-feed h5 {
-	color: #10aaaf;
+	color: #f600b1;
 	font-size: 18px;
 	line-height: 20px;
 	margin: 0;
@@ -1199,14 +1199,14 @@ a.next-album {
 	font-family: 'Oswald', sans-serif;
 }
 .event-feed a.btn:hover, .latest-post a.btn:hover {
-	background: #10aaaf;
+	background: #f600b1;
 }
 .btn.sold-out:hover {
 	background: #1f1f1f !important;
 	cursor: not-allowed;
 }
 .more-events a {
-	background: #10aaaf;
+	background: #f600b1;
 	width: 100%;
 	height: auto;
 	display: block;
@@ -2313,7 +2313,7 @@ blockquote{
    ========================*/
 footer .container {
 	position: relative;
-	border-top: 3px solid #10aaaf;
+	border-top: 3px solid #f600b1;
 	padding-top: 40px;
 	padding-bottom: 100px;
 }
